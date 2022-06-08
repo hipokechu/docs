@@ -1,6 +1,9 @@
 # Introduction
 
+
+
 <div align = "center">
+<img src = "../.gitbook/assets/icon.png" width="100">
 
 <h1> <strong> Pokéchu </strong> </h1>
 
